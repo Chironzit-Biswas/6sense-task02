@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <nav className="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-4 text-white sticky top-0">
             <div className="container mx-auto flex justify-between items-center">
-                <div className="text-2xl font-bold">PlayfulRedesign</div>
+                <div className="text-2xl font-bold">Asana</div>
                 <ul className="flex gap-6 text-lg">
                     <li className="hover:underline cursor-pointer">Features</li>
                     <li className="hover:underline cursor-pointer">Pricing</li>
